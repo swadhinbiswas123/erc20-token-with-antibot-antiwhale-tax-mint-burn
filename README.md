@@ -1,3 +1,6 @@
+# Deployed Smart Contract On Rinkeby
+https://rinkeby.etherscan.io/address/0x164ce546b48b6cd43f8a44bd6f6889776176a710
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
